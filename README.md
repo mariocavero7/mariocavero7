@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mario Cavero 👋
 
-<!--
-**mariocavero7/mariocavero7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer Junior & Systems Engineering Student.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Kotlin
+- Java
+- Android
+- MVVM
+- REST APIs
+- Git
+- SQL
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Building Android projects
+- Improving algorithms & competitive programming
+- Looking for internships / junior opportunities
+
+## Profiles
+- LinkedIn: [Mario Cavero](https://www.linkedin.com/in/mario-cavero/)
+- LeetCode: [Mxrio_7](https://leetcode.com/u/Mxrio_7/)
+- Codeforces: [Batipibe](https://codeforces.com/profile/Batipibe)
+
+## Contact
+caveromario05@gmail.com
